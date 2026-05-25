@@ -1,0 +1,8 @@
+{
+    "name": "cloudcontroller-service",
+    "version": "1.0.308",
+    "private": false,
+    "environment": "production",
+    "build_id": 137,
+    "allow_public_access": true
+}
